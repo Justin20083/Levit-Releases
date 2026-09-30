@@ -1,0 +1,36 @@
+LICENCIA PROPRIETARIA — Levit
+
+Copyright (c) 2026 Levit. Todos los derechos reservados.
+
+Este software NO es de código abierto.
+
+1. Uso personal y gratuito
+   Se permite descargar, instalar y usar Levit de forma gratuita y
+   personal en tu propio equipo, sujeto a los Términos y Condiciones
+   (TERMS.md).
+
+2. Prohibido
+   Sin autorización escrita de Levit queda prohibido:
+   - Revender, redistribuir o revender el software como producto propio.
+   - Cambiarle el nombre, el icono o la marca y distribuirlo o venderlo
+     como si fuera un producto de otra persona o entidad.
+   - Descompilar, desmontar, revertir el ingeniería o extraer el código
+     fuente para reproducirlo o modificarlo.
+   - Eliminar o alterar avisos de copyright, marcas o esta licencia.
+
+3. Distribución de binarios
+   La única vía oficial de distribución son los paquetes oficiales
+   publicados por Levit. Cualquier otra copia del software no está
+   autorizada.
+
+4. Marcas
+   "Levit" y sus logotipos son marcas de su titular. Claude y Anthropic
+   son marcas de Anthropic PBC; opencode pertenece a sus respectivos
+   titulares. Levit no está afiliado con ellos.
+
+5. Sin garantía
+   El software se proporciona "tal cual", sin garantía de ningún tipo.
+   Consulta TERMS.md y PRIVACY.md.
+
+Para solicitar permisos de distribución o reutilización, abre una issue
+en el repositorio oficial.
